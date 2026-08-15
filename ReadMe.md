@@ -82,7 +82,7 @@ Make sure you have **Node.js v.18.0 or higher** installed on your machine.
 - Clone the repository:
 
 ```bash
-    git clone []()
+    git clone [https://github.com/GeorgePeg/TranslatorApp.git](https://github.com/GeorgePeg/TranslatorApp.git)
 ```
 
 - Navigate to the project directory:
