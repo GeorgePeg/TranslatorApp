@@ -9,7 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-A lightweiht, repsonsive and fast multi-language translation web application, using the open-source
+A lightweight, repsonsive and fast multi-language translation web application, using the open-source
 **Lingva Translate API**, **React** and **Vite**.
 
 ![Translator](image.png)
@@ -82,7 +82,7 @@ Make sure you have **Node.js v.18.0 or higher** installed on your machine.
 - Clone the repository:
 
 ```bash
-    git clone [https://github.com/GeorgePeg/TranslatorApp.git](https://github.com/GeorgePeg/TranslatorApp.git)
+    git clone `[https://github.com/GeorgePeg/TranslatorApp.git](https://github.com/GeorgePeg/TranslatorApp.git)`
 ```
 
 - Navigate to the project directory:
@@ -95,7 +95,6 @@ Make sure you have **Node.js v.18.0 or higher** installed on your machine.
 
 ```bash
     npm install
-    npm install lucide-react
 ```
 
 - Start the development server:
