@@ -9,6 +9,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 A lightweight, repsonsive and fast multi-language translation web application, using the open-source
 **Lingva Translate API**, **React** and **Vite**.
@@ -43,6 +44,8 @@ A lightweight, repsonsive and fast multi-language translation web application, u
  ┃ ┣ App.jsx
  ┃ ┗ main.jsx
  ┣ image.png
+ ┣ Dockerfile
+ ┣ .dockerignore
  ┣ index.html
  ┣ .gitignore
  ┣ package.json
