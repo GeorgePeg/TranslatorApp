@@ -1,0 +1,7 @@
+# Keeping random files out of the build
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+ReadMe.md
